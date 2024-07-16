@@ -1,2 +1,1 @@
-# GitPractice
-This repository for practising Git
+Hello WOrld
